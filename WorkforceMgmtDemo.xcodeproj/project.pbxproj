@@ -162,9 +162,9 @@
 		5F03D4642891DD7B007F8C9D = {
 			isa = PBXGroup;
 			children = (
-				5F03D46F2891DD7B007F8C9D /* StreamSocialMediaApp */,
-				5F03D4802891DD7D007F8C9D /* StreamSocialMediaAppTests */,
-				5F03D48A2891DD7D007F8C9D /* StreamSocialMediaAppUITests */,
+				5F03D46F2891DD7B007F8C9D /* WorkforceMgmtApp */,
+				5F03D4802891DD7D007F8C9D /* WorkforceMgmtAppTests */,
+				5F03D48A2891DD7D007F8C9D /* WorkforceMgmtAppUITests */,
 				5F03D46E2891DD7B007F8C9D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -179,7 +179,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5F03D46F2891DD7B007F8C9D /* StreamSocialMediaApp */ = {
+		5F03D46F2891DD7B007F8C9D /* WorkforceMgmtApp */ = {
 			isa = PBXGroup;
 			children = (
 				ACDFC5502A17C8C700FF21E8 /* Stream */,
@@ -194,7 +194,7 @@
 				5F03D4A6289213AB007F8C9D /* SocialChannelListHeader.swift */,
 				5F03D4A8289214BC007F8C9D /* SocialChannelListHeaderModifier.swift */,
 			);
-			path = StreamSocialMediaApp;
+			path = WorkforceMgmtApp;
 			sourceTree = "<group>";
 		};
 		5F03D4762891DD7D007F8C9D /* Preview Content */ = {
@@ -205,21 +205,21 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		5F03D4802891DD7D007F8C9D /* StreamSocialMediaAppTests */ = {
+		5F03D4802891DD7D007F8C9D /* WorkforceMgmtAppTests */ = {
 			isa = PBXGroup;
 			children = (
 				5F03D4812891DD7D007F8C9D /* StreamSocialMediaAppTests.swift */,
 			);
-			path = StreamSocialMediaAppTests;
+			path = WorkforceMgmtAppTests;
 			sourceTree = "<group>";
 		};
-		5F03D48A2891DD7D007F8C9D /* StreamSocialMediaAppUITests */ = {
+		5F03D48A2891DD7D007F8C9D /* WorkforceMgmtAppUITests */ = {
 			isa = PBXGroup;
 			children = (
 				5F03D48B2891DD7D007F8C9D /* StreamSocialMediaAppUITests.swift */,
 				5F03D48D2891DD7D007F8C9D /* StreamSocialMediaAppUITestsLaunchTests.swift */,
 			);
-			path = StreamSocialMediaAppUITests;
+			path = WorkforceMgmtAppUITests;
 			sourceTree = "<group>";
 		};
 		5F03D49A28920016007F8C9D /* Components */ = {
@@ -684,7 +684,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"StreamSocialMediaApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"WorkforceMgmtApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photos.";
@@ -714,7 +714,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"StreamSocialMediaApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"WorkforceMgmtApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photos.";
