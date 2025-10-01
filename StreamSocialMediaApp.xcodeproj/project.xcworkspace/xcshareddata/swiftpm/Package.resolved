@@ -1,0 +1,33 @@
+{
+  "originHash" : "1191ecd4d5f8544f2e83ab5ca9c4e194da7e20ffaf38dcdee624e4728c33ab7e",
+  "pins" : [
+    {
+      "identity" : "confettiswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/simibac/ConfettiSwiftUI",
+      "state" : {
+        "revision" : "f45961f97bbae6fff6e2e64546fea0189425ad92",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "stream-chat-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetStream/stream-chat-swift.git",
+      "state" : {
+        "revision" : "1f43d7bdae989da8c7494fb973a29095d30289ef",
+        "version" : "4.88.0"
+      }
+    },
+    {
+      "identity" : "stream-chat-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetStream/stream-chat-swiftui",
+      "state" : {
+        "revision" : "00d4d1c5b9c43d23f1a97da39f94e7931ba18025",
+        "version" : "4.88.0"
+      }
+    }
+  ],
+  "version" : 3
+}
