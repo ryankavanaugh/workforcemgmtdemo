@@ -78,14 +78,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5F03D46D2891DD7B007F8C9D /* StreamSocialMediaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StreamSocialMediaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F03D46D2891DD7B007F8C9D /* WorkforceMgmtDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkforceMgmtDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F03D4702891DD7B007F8C9D /* StreamSocialMediaAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSocialMediaAppApp.swift; sourceTree = "<group>"; };
 		5F03D4722891DD7B007F8C9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5F03D4742891DD7D007F8C9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F03D4772891DD7D007F8C9D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5F03D47D2891DD7D007F8C9D /* StreamSocialMediaAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StreamSocialMediaAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F03D47D2891DD7D007F8C9D /* WorkforceMgmtDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkforceMgmtDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F03D4812891DD7D007F8C9D /* StreamSocialMediaAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSocialMediaAppTests.swift; sourceTree = "<group>"; };
-		5F03D4872891DD7D007F8C9D /* StreamSocialMediaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StreamSocialMediaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F03D4872891DD7D007F8C9D /* WorkforceMgmtDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkforceMgmtDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F03D48B2891DD7D007F8C9D /* StreamSocialMediaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSocialMediaAppUITests.swift; sourceTree = "<group>"; };
 		5F03D48D2891DD7D007F8C9D /* StreamSocialMediaAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamSocialMediaAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5F03D49D28920064007F8C9D /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
@@ -172,9 +172,9 @@
 		5F03D46E2891DD7B007F8C9D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5F03D46D2891DD7B007F8C9D /* StreamSocialMediaApp.app */,
-				5F03D47D2891DD7D007F8C9D /* StreamSocialMediaAppTests.xctest */,
-				5F03D4872891DD7D007F8C9D /* StreamSocialMediaAppUITests.xctest */,
+				5F03D46D2891DD7B007F8C9D /* WorkforceMgmtDemo.app */,
+				5F03D47D2891DD7D007F8C9D /* WorkforceMgmtDemoTests.xctest */,
+				5F03D4872891DD7D007F8C9D /* WorkforceMgmtDemoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -348,9 +348,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5F03D46C2891DD7B007F8C9D /* StreamSocialMediaApp */ = {
+		5F03D46C2891DD7B007F8C9D /* WorkforceMgmtDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F03D4912891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "StreamSocialMediaApp" */;
+			buildConfigurationList = 5F03D4912891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "WorkforceMgmtDemo" */;
 			buildPhases = (
 				5F03D4692891DD7B007F8C9D /* Sources */,
 				5F03D46A2891DD7B007F8C9D /* Frameworks */,
@@ -360,18 +360,18 @@
 			);
 			dependencies = (
 			);
-			name = StreamSocialMediaApp;
+			name = WorkforceMgmtDemo;
 			packageProductDependencies = (
 				5F03D4A028920B85007F8C9D /* StreamChatSwiftUI */,
 				AC3EE40C2A1C0889008B6CA0 /* ConfettiSwiftUI */,
 			);
 			productName = StreamSocialMediaApp;
-			productReference = 5F03D46D2891DD7B007F8C9D /* StreamSocialMediaApp.app */;
+			productReference = 5F03D46D2891DD7B007F8C9D /* WorkforceMgmtDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5F03D47C2891DD7D007F8C9D /* StreamSocialMediaAppTests */ = {
+		5F03D47C2891DD7D007F8C9D /* WorkforceMgmtDemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F03D4942891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "StreamSocialMediaAppTests" */;
+			buildConfigurationList = 5F03D4942891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "WorkforceMgmtDemoTests" */;
 			buildPhases = (
 				5F03D4792891DD7D007F8C9D /* Sources */,
 				5F03D47A2891DD7D007F8C9D /* Frameworks */,
@@ -382,14 +382,14 @@
 			dependencies = (
 				5F03D47F2891DD7D007F8C9D /* PBXTargetDependency */,
 			);
-			name = StreamSocialMediaAppTests;
+			name = WorkforceMgmtDemoTests;
 			productName = StreamSocialMediaAppTests;
-			productReference = 5F03D47D2891DD7D007F8C9D /* StreamSocialMediaAppTests.xctest */;
+			productReference = 5F03D47D2891DD7D007F8C9D /* WorkforceMgmtDemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5F03D4862891DD7D007F8C9D /* StreamSocialMediaAppUITests */ = {
+		5F03D4862891DD7D007F8C9D /* WorkforceMgmtDemoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5F03D4972891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "StreamSocialMediaAppUITests" */;
+			buildConfigurationList = 5F03D4972891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "WorkforceMgmtDemoUITests" */;
 			buildPhases = (
 				5F03D4832891DD7D007F8C9D /* Sources */,
 				5F03D4842891DD7D007F8C9D /* Frameworks */,
@@ -400,9 +400,9 @@
 			dependencies = (
 				5F03D4892891DD7D007F8C9D /* PBXTargetDependency */,
 			);
-			name = StreamSocialMediaAppUITests;
+			name = WorkforceMgmtDemoUITests;
 			productName = StreamSocialMediaAppUITests;
-			productReference = 5F03D4872891DD7D007F8C9D /* StreamSocialMediaAppUITests.xctest */;
+			productReference = 5F03D4872891DD7D007F8C9D /* WorkforceMgmtDemoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -428,7 +428,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5F03D4682891DD7B007F8C9D /* Build configuration list for PBXProject "StreamSocialMediaApp" */;
+			buildConfigurationList = 5F03D4682891DD7B007F8C9D /* Build configuration list for PBXProject "WorkforceMgmtDemo" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -445,9 +445,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5F03D46C2891DD7B007F8C9D /* StreamSocialMediaApp */,
-				5F03D47C2891DD7D007F8C9D /* StreamSocialMediaAppTests */,
-				5F03D4862891DD7D007F8C9D /* StreamSocialMediaAppUITests */,
+				5F03D46C2891DD7B007F8C9D /* WorkforceMgmtDemo */,
+				5F03D47C2891DD7D007F8C9D /* WorkforceMgmtDemoTests */,
+				5F03D4862891DD7D007F8C9D /* WorkforceMgmtDemoUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -552,12 +552,12 @@
 /* Begin PBXTargetDependency section */
 		5F03D47F2891DD7D007F8C9D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5F03D46C2891DD7B007F8C9D /* StreamSocialMediaApp */;
+			target = 5F03D46C2891DD7B007F8C9D /* WorkforceMgmtDemo */;
 			targetProxy = 5F03D47E2891DD7D007F8C9D /* PBXContainerItemProxy */;
 		};
 		5F03D4892891DD7D007F8C9D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5F03D46C2891DD7B007F8C9D /* StreamSocialMediaApp */;
+			target = 5F03D46C2891DD7B007F8C9D /* WorkforceMgmtDemo */;
 			targetProxy = 5F03D4882891DD7D007F8C9D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -752,7 +752,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamSocialMediaApp.app/StreamSocialMediaApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WorkforceMgmtDemo.app/WorkforceMgmtDemo";
 			};
 			name = Debug;
 		};
@@ -771,7 +771,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreamSocialMediaApp.app/StreamSocialMediaApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WorkforceMgmtDemo.app/WorkforceMgmtDemo";
 			};
 			name = Release;
 		};
@@ -812,7 +812,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5F03D4682891DD7B007F8C9D /* Build configuration list for PBXProject "StreamSocialMediaApp" */ = {
+		5F03D4682891DD7B007F8C9D /* Build configuration list for PBXProject "WorkforceMgmtDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F03D48F2891DD7D007F8C9D /* Debug */,
@@ -821,7 +821,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F03D4912891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "StreamSocialMediaApp" */ = {
+		5F03D4912891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "WorkforceMgmtDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F03D4922891DD7D007F8C9D /* Debug */,
@@ -830,7 +830,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F03D4942891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "StreamSocialMediaAppTests" */ = {
+		5F03D4942891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "WorkforceMgmtDemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F03D4952891DD7D007F8C9D /* Debug */,
@@ -839,7 +839,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5F03D4972891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "StreamSocialMediaAppUITests" */ = {
+		5F03D4972891DD7D007F8C9D /* Build configuration list for PBXNativeTarget "WorkforceMgmtDemoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5F03D4982891DD7D007F8C9D /* Debug */,
